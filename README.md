@@ -48,6 +48,9 @@ O projeto é organizado em módulos para facilitar a manutenção e escalabilida
 - **TypeScript** instalado globalmente:
   ```bash
   npm install -g typescript
+  ```
+- **@types/node** instalado globalmente:
+  ```bash
   npm install @types/node
   ```
 ---
@@ -74,7 +77,7 @@ Isso gerará os arquivos .js correspondentes.
 ## 🧪 Exemplos de Saída
 Após executar o arquivo de teste, o console exibirá algo como:
   ```bash
-    Teste com EditorPDF:
+  Teste com EditorPDF:
   Arquivo PDF 'documento.pdf' criado.
   Conteúdo salvo no arquivo PDF 'documento.pdf'.
   Conteúdo adicionado ao arquivo PDF 'documento.pdf'.
