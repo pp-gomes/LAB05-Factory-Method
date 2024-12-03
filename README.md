@@ -35,7 +35,6 @@ O projeto é organizado em módulos para facilitar a manutenção e escalabilida
 1. ├── arquivo.ts # Define a interface e classes concretas para arquivos 
 2. ├── editor-arquivo.ts # Define a classe abstrata e os criadores concretos
 3. ├── teste-factory.ts # Arquivo de teste
-4. ├── tsconfig.json # Configurações do TypeScript (opcional)
 
 ---
 
